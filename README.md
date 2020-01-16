@@ -1,6 +1,6 @@
 ### 1 INTRODUCTION - RNN BASED LYRICS GENERATION
 
-In the project, we aim to generate new song lyrics based on the artist’s previously released song’s context and style. We have chosen a Kaggle dataset of over 57,000 songs, having over 650 artists. The dataset contains artist name, song name, a link of the song for reference & lyrics of that song. We tend to create an RNN character-level language model on the mentioned dataset. Using model evaluation techniques, the model is checked for its accuracy and is parameter optimized. The trained model will predict the next character based on the context of the previous sequence and will generate new lyrics based on an artist’s style.
+The project aims to generate new song lyrics based on the artist’s previously released song’s context and style. The Chosen Kaggle dataset contains over 57,000 songs, having over 650 artists. The dataset contains artist name, song name, a link of the song for reference & lyrics of that song. The project tends to create an RNN character-level language model. The trained model will predict the next character based on the context of the previous sequence and will generate new lyrics based on an artist’s style. Using model evaluation techniques, the model is checked for its accuracy and is parameter optimized.
 
 ### 2 RELATED WORK
 
